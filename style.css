@@ -22,7 +22,7 @@ html {
   -webkit-overflow-scrolling: touch;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  -ms-overflow-x: hidden;
+
 }
 
 body, html {
@@ -1508,7 +1508,6 @@ button:focus {
     margin-bottom: 2rem;
     padding: 0.25rem 1.1875rem 0.1875rem 1.25rem;
     position: relative;
-    vertical-align: middle;
     text-align: left;
     user-select: none;
     width: 100%;
